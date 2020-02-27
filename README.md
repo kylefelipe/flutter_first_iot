@@ -1,6 +1,6 @@
 # flutter_first_iot
 
-Meu primiro projeto Fluttr envolvendo IoT.
+Meu primeiro projeto Flutter envolvendo IoT.
 
 ## Getting Started
 
